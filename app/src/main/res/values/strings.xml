@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="app_name">ShareSpeach</string>
+    <string name="app_name">Share Speech</string>
     <string name="hello_world">Hello world!</string>
     <string name="textPlaceholder">Here goes your shared text</string>
 </resources>
